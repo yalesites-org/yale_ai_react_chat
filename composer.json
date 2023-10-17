@@ -1,5 +1,5 @@
 {
     "name": "yalesites-org/yale_ai_react_chat",
-    "type": "library",
+    "type": "drupal-library",
     "minimum-stability": "dev"
 }

@@ -1,6 +1,6 @@
 {
   "name": "yalesites-org/yale_ai_react_chat",
-  "type": "react-app",
+  "type": "drupal-library",
   "minimum-stability": "dev",
   "require": {
     "composer/installers": "~1.0"
